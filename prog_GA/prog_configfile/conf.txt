@@ -1,0 +1,20 @@
+receptor = 2hyy_scap.pdbqt
+ligand = ligand_ima.pdbqt
+
+
+
+center_x = -1.241
+center_y = 7.615
+center_z = -3.861
+
+
+
+size_x = 26
+size_y = 23
+size_z = 18
+
+
+cpu = 1
+energy_range = 3
+exhaustiveness = 8
+num_modes = 8
