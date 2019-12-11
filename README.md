@@ -19,10 +19,12 @@ cp -rf PATH_OF_pre_sequence/script/*./
 ./intialized.sh
 ```
 generate a number of mutated sequences,and convert the DNA sequences to protein sequences, save in generation_all, with DNA sequence, RNA sequence and AA sequence, splitted by ' '.
-```./translate.sh
+```
+./translate.sh
 ```
 delete the repeating sequences and keep AA sequence
-``` ./delanduniq.sh
+```
+./delanduniq.sh
 ```
 calculate the number of mutated AA for each mutant
 ```
