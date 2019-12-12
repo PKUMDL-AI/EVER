@@ -10,4 +10,4 @@ Drug resistance is of increasing concern, especially during the treatments of in
 
 # Reference
 
-Jinxin Liu, Jianfeng Pei, and Luhua Lai. A combined computational and experimental strategy identifies mutations conferring resistance to drugs targeting the BCR-ABL fusion protein. 2019
+Jinxin Liu, Jianfeng Pei, and Luhua Lai. A combined computational and experimental strategy identifies mutations conferring resistance to drugs targeting the BCR-ABL fusion protein. 2019 (Accepted)
