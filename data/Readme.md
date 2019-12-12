@@ -1,4 +1,27 @@
-# EVER-experiments-results
+# EVER-Extended Data Figures
+
+1. EVER-Extended figures.pptx contains all figures in the manuscript.
+
+
+2. In the file "EVER-Extended data.xlsx",
+
+Data in the "gen_incidence" tab are used for drawing Figure 2
+
+Data in the "incidence_clinic&prediction" tab are used for drawing Figure 3
+
+Data in the "KD_normalization" tab  are used for drawing Figure 4
+
+Data in the "IC50_normalization" tab are used for drawing Figure 5
+
+Data in the "KM&Kcat" and "IC50_normalization" tabs  are used for drawing Figure 6
+
+Data in the "bosutinib&ponatinib" tab  are used for drawing Figure 7
+
+Data in the “Gefitinib” tab are used for drawing Figure 8.
+
+
+
+# EVER-Supplementary Data Figures
 
 Note. All figures are drawn using GraphPad Prism 8.3.0 trail version or  OriginPro 2019b.
 
