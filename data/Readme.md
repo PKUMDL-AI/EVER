@@ -1,7 +1,8 @@
 # EVER-Extended Data Figures
 
-1. EVER-Extended figures.pptx contains all figures in the manuscript.
-
+1. EVER-Extended figures.pptx contains all figures in the manuscript. 
+   
+   P.S. Figure 1 is a data-free flow chart, drawn with Microsoft Visio.
 
 2. In the file "EVER-Extended data.xlsx",
 
