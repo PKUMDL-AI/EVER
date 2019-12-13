@@ -1,5 +1,5 @@
 # EVER
-EVER designed by ljx
+EVER designed by Dr.ljx
 
 Note: Cavity, scap, AutodocnVina program and is needed.
 
