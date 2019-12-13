@@ -1,6 +1,8 @@
 # EVER
 EVER designed by ljx
 
+Note: Cavity, scap, AutodocnVina program and is needed.
+
 Choose appropriate crystal structure of RECPTOR and LIGAND, run CAVITY to detect the key residues in pocket, MOVE the /parameters, /defaults directory in $PATH/Cavity to current directory and modify input file.
 ```
 cavity64 cavity-AA.input
