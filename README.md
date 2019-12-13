@@ -1,6 +1,6 @@
 # EVER
 * A combined computational and experimental strategy identifies mutations conferring resistance to drugs targeting the BCR-ABL fusion protein.
-* It was designed by ljx.
+* It was designed by Dr. Jinxing Liu (ljx).
 * "code" contains all the implementation scripts and steps of EVER.
 * "data" contains all the data and figures. 
 
